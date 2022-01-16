@@ -1,11 +1,28 @@
-# BetterDiscord
+# BetterDiscord Repository
 This repository contains all custom content made by OlavWolfiken for BetterDiscord.
 
-## Plugins
+## Requirements
+The custom content provided in this repository requires you to have BetterDiscord installed: https://betterdiscord.app/
+
+## Installation
 WIP
 
-## Snippets
+### Plugins
+WIP
+
+### Snippets
+WIP
+
+### Themes
+WIP
+
+## Custom Content List
+
+### Plugins
+WIP
+
+### Snippets
 - [Custom Channel Buttons](https://github.com/OlavWolfiken/BetterDiscord/blob/main/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
 
-## Themes
+### Themes
 WIP

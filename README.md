@@ -25,5 +25,5 @@ WIP
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 WIP
 
-### [Snippets](https://olavwolfiken.github.io/BetterDiscord/Snippets)
+### Snippets
 - [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)

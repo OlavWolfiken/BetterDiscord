@@ -10,10 +10,10 @@ WIP
 ### Plugins
 WIP
 
-### Snippets
+### Themes
 WIP
 
-### Themes
+### Snippets
 WIP
 
 ## Custom Content
@@ -22,8 +22,8 @@ WIP
 ### [Plugins](https://olavwolfiken.github.io/BetterDiscord/Plugins)
 WIP
 
-### [Snippets](https://olavwolfiken.github.io/BetterDiscord/Snippets)
-- [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
-
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 WIP
+
+### [Snippets](https://olavwolfiken.github.io/BetterDiscord/Snippets)
+- [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)

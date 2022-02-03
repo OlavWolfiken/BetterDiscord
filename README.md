@@ -20,14 +20,16 @@ Below you can find the full listing of the custom content compiled by OlavWolfik
 The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed.<br>Each custom conten may have their own, initial requirements, that will be provided accordingly.
 
 ## Installation
-Below are some recommended installation options for the custom content.<br>**Note:** The installation proccess may vary slightly between different custom content. 
+Below are some recommended installation options for the custom content.
+
+**Note:** The installation proccess may vary slightly between different custom content. 
 
 ### Plugins
-**Note:** Before installation make sure that you meet the requirements of each plugin, if provided!
+**Note:** Before installation make sure that you meet the requirements of each plugin, if provided!<br>
 WIP
 
 ### Themes
-**Note:** Before installation make sure that you meet the requirements of each theme, if provided!
+**Note:** Before installation make sure that you meet the requirements of each theme, if provided!<br>
 WIP
 
 ### Snippets

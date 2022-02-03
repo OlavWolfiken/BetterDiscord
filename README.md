@@ -1,5 +1,5 @@
 # BetterDiscord Repository
-This repository contains all custom content made by OlavWolfiken for BetterDiscord.
+This repository contains all custom content made by [OlavWolfiken](https://github.com/OlavWolfiken) for BetterDiscord.
 
 ## Requirements
 The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed.

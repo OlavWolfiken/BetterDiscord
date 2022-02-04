@@ -11,7 +11,7 @@ Below you can find the full listing of the custom content compiled by OlavWolfik
 - Wolfkin Dark Theme (State: Concept, Release: TBD)
 
 #### [Theme Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
-- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis Square Channel Buttons) (State: Indev, Release: Late February)
+- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: Indev, Release: Late February)
 
 ### Snippets
 - [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)

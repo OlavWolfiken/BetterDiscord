@@ -1,4 +1,4 @@
-[OlavWolfiken's Repo](https://olavwolfiken.github.io/BetterDiscord) > Snippets
+[OlavWolfiken's Repo](https://olavwolfiken.github.io/BetterDiscord) > **Snippets**
 
 # Snippets
 Below you can find the full listing of various snippets compiled or extracted by OlavWolfiken. For installation instructions follow [this link](https://olavwolfiken.github.io/BetterDiscord#snippets-1).

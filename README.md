@@ -10,8 +10,8 @@ Below you can find the full listing of the custom content compiled by OlavWolfik
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 - Wolfkin Dark Theme (State: Concept, Release: TBD)
 
-#### Theme Add-ons
-- Alexis Custom Channel Buttons (State: Indev, Release: Late February)
+#### [Theme Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
+- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis Square Channel Buttons) (State: Indev, Release: Late February)
 
 ### Snippets
 - [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
@@ -26,11 +26,11 @@ Below are some recommended installation options for the custom content.
 
 ### Plugins
 **Note:** Before installation make sure that you meet the requirements of each plugin, if provided!<br>
-WIP
+1. WIP
 
 ### Themes
 **Note:** Before installation make sure that you meet the requirements of each theme, if provided!<br>
-WIP
+1. WIP
 
 ### Snippets
 **Note:** Before installation make sure that you meet the requirements of each snippet, if provided!

@@ -17,7 +17,7 @@ Below you can find the full listing of the custom content compiled by OlavWolfik
 - [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
 
 ## Requirements
-The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed.<br>Each custom conten may have their own, initial requirements, that will be provided accordingly.
+The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed. Additionally each custom content may have their own, initial requirements, that will be provided accordingly.
 
 ## Installation
 Below are some recommended installation options for the custom content.

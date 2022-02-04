@@ -40,3 +40,6 @@ Below are some recommended installation options for the custom content.
 4. Go to the Custom CSS **tab** of the Settings (here make sure the old versions are removed) and paste the copied snippet at the bottom of the pop-up
 5. Press the Save button (💾), and then the Update button (🔄)
 6. And just to be sure, press `CTRL + R` to refresh the app
+
+## Support
+WIP

@@ -35,7 +35,7 @@ Below are some recommended installation options for the custom content. The inst
 2. Open your Discord app and press `CTRL + ,` to go to the User Settings, then go to BetterDiscord tab of the Settings
 3. Open the Custom CSS **dropdown** to make sure that the Custom CSS **switch** is turned on
 4. Go to the Custom CSS **tab** of the Settings (here make sure the old versions are removed) and paste the copied snippet at the bottom of the pop-up
-5. Press the Save button (💾), and then the Update button (🔄)
+5. Press the Save button (💾), and then the Update button (🔃)
 6. And just to be sure, press `CTRL + R` to refresh the app
 
 ## Support

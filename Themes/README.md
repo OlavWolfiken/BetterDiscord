@@ -5,6 +5,6 @@ Below you can find the full listing of various themes compiled by [OlavWolfiken]
 
 - [Wolfkin Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfkin%20Dark%20Theme/) (State: Concept, Release: TBD)
 
-## [Theme Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
+## [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)

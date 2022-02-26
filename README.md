@@ -11,7 +11,7 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 - TBD
 
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
-- [Wolfkin Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfkin%20Dark%20Theme/) (State: Concept, Release: TBD)
+- [Wolfiken Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfiken%20Dark%20Theme/) (State: Concept, Release: TBD)
 
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)

@@ -5,16 +5,16 @@ This repository contains all custom content made by [OlavWolfiken](https://githu
 The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed. Additionally each custom content may have their own, initial requirements, that will be provided accordingly.
 
 ## Contents
-Below you can find the full listing of the custom content compiled by OlavWolfiken.
+Below you can find the full listing of the custom content compiled by [OlavWolfiken](https://github.com/OlavWolfiken).
 
 ### [Plugins](https://olavwolfiken.github.io/BetterDiscord/Plugins)
-- WIP
+- TBD
 
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 - [Wolfkin Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfkin%20Dark%20Theme/) (State: Concept, Release: TBD)
 
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
-- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: Indev, Release: Late February)
+- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
 ### [Snippets](https://olavwolfiken.github.io/BetterDiscord/Snippets)
 - [Custom Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Snippets/custom-channel-buttons.css) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)

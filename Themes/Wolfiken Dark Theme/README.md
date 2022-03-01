@@ -2,4 +2,13 @@
 
 # Wolfiken Dark Theme
 ### (State: Concept, Release: TBD)
-**Wolfiken Dark Theme** is a custom theme for BetterDiscord made by [OlavWolfiken](https://github.com/OlavWolfiken). For installation instructions follow [this link](https://olavwolfiken.github.io/BetterDiscord#themes-1).
+**Wolfiken Dark Theme** is a custom theme for BetterDiscord made by [OlavWolfiken](https://github.com/OlavWolfiken).
+
+## Preview
+WIP
+
+## Requirements
+TBD
+
+## Installation
+Full instructions on how to install this theme add-on can be found [here](https://olavwolfiken.github.io/BetterDiscord#themes-1).

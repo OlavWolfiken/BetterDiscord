@@ -7,13 +7,12 @@
  * @description An add-on for [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/AlexisJonsson.github.io/tree/master/BetterDiscordAddons/Themes), that allows the user to apply the custom square channel design, found on Alexis' server, to any server of their choosing. **Note:** It is recommended to use this add-on alongside the original theme!
  * @website https://olavwolfiken.github.io/
 */
-@import url(https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons/square-buttons-addon.source.css);
 :root{
     /*Server Name*/
     --server-name:Test Server; /* Choose the name of the Server you want the Square Channel Buttons to be applied to */
 }
 :root{
-    --addon-version:"22.02.21 (inDev) "
+    --addon-version:"22.03.09 (inDev) "
 }
 [id^="Alexis Square Channels Buttons Add-on"] .bd-addon-header .bd-version{
     font-size:0

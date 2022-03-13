@@ -39,4 +39,4 @@ Below are some recommended installation options for the custom content. The inst
 6. And just to be sure, press `CTRL + R` to refresh the app
 
 ## Support
-WIP
+If you want to report a bug, or request a feature, you can do that through the [Issues tab](https://github.com/OlavWolfiken/BetterDiscord/issues/new/choose) on GitHub, or on our [Discord support server](https://discord.gg/RYsm9RWv66) in specified channels.

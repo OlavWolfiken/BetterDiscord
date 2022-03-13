@@ -1,4 +1,4 @@
-name: Theme - Bug Report
+name: Theme Bug Report
 description: File a theme bug report
 title: "[Theme Bug]: "
 labels: ["theme", "bug"]
@@ -9,13 +9,21 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Which theme are you having trouble with?
+      multiple: false
+      options:
+        - Wolfiken Dark Theme
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
   - type: dropdown
@@ -27,11 +35,12 @@ body:
         - Stable
         - Canary
         - PTB
+    validations:
+      required: false
   - type: input
     id: version
     attributes:
-      label: Client version
-      description: What is your Discord client's version?
+      label: What is your Discord client's version?
       placeholder: ex. Stable 118205 (081ceba)
     validations:
       required: false

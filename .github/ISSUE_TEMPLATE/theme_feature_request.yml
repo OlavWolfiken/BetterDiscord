@@ -1,0 +1,36 @@
+name: Theme Feature Request
+description: File a theme feature request
+title: "[Theme Feature]: "
+labels: ["feature", "theme"]
+assignees:
+  - OlavWolfiken
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: Which plugin are requesting a feature for?
+      multiple: false
+      options:
+        - PLACEHOLDER
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Describe the feature you're requesting
+      description: What is the feature supposed to do?
+      placeholder: Type here...
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why do you think the theme needs this feature?
+      description: What problem does your feature improve upon?
+      placeholder: Type here...
+    validations:
+      required: true

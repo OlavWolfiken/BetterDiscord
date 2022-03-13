@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reason
+    id: request
     attributes:
       label: Describe the feature you're requesting
       description: What is the feature supposed to do?

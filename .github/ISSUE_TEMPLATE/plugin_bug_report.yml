@@ -5,14 +5,10 @@ labels: ["bug", "plugin"]
 assignees:
   - OlavWolfiken
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: dropdown
     id: plugin
     attributes:
-      label: Which plugin are you having trouble with?
+      label: What plugin are you having trouble with?
       multiple: false
       options:
         - PLACEHOLDER

@@ -7,8 +7,5 @@
 ## Preview
 WIP
 
-## Requirements
-TBD
-
 ## Installation
 Full instructions on how to install this theme can be found [here](https://olavwolfiken.github.io/BetterDiscord#themes-1).

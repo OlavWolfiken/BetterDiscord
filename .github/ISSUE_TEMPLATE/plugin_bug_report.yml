@@ -1,0 +1,37 @@
+name: Bug Report: Plugin
+description: File a plugin bug report
+title: "[Plugin Bug]: "
+labels: ["plugin", "bug"]
+assignees:
+  - OlavWolfiken
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: client
+    attributes:
+      label: What Discord client are you using the plugin on?
+      multiple: true
+      options:
+        - Stable
+        - Canary
+        - PTB
+  - type: input
+    id: version
+    attributes:
+      label: Client version
+      description: What is your Discord client's version?
+      placeholder: ex. Stable 118205 (081ceba)
+    validations:
+      required: false

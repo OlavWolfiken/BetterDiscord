@@ -6,9 +6,9 @@ assignees:
   - OlavWolfiken
 body:
   - type: dropdown
-    id: plugin
+    id: theme
     attributes:
-      label: Which plugin are requesting a feature for?
+      label: Which theme are requesting a feature for?
       multiple: false
       options:
         - PLACEHOLDER

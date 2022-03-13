@@ -41,8 +41,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Client version
-      description: What is your Discord client's version?
+      label: What is your Discord client's version?
       placeholder: ex. Stable 118205 (081ceba)
     validations:
       required: false

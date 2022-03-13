@@ -9,6 +9,15 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+  - type: dropdown
+    id: plugin
+    attributes:
+      label: Which plugin are you having trouble with?
+      multiple: false
+      options:
+        - PLACEHOLDER
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -27,6 +36,8 @@ body:
         - Stable
         - Canary
         - PTB
+    validations:
+      required: false
   - type: input
     id: version
     attributes:

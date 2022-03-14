@@ -16,7 +16,7 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
-### [Snippets](https://olavwolfiken.github.io/BetterDiscord/Snippets)
+### Snippets
 - [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
 
 ## Installation

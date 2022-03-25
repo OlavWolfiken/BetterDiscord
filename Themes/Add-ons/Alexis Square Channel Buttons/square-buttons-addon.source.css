@@ -15,6 +15,9 @@
     flex-wrap:wrap;
     flex-direction:row
 }
+.sidebar-1tnWFu .container-1NXEtd[aria-label*="!"] .content-2a4AW9 .containerDefault-3TQ5YN{
+    width:100%
+}
 .sidebar-1tnWFu .container-1NXEtd[aria-label*="!"] .content-2a4AW9 a .iconContainer-21RCa3{
     --size:32px;
     left:calc(50% - 16px);
@@ -47,9 +50,6 @@
 }
 .sidebar-1tnWFu .container-1NXEtd[aria-label*="!"] .content-2a4AW9 .containerDefault-YUSmu3 .mainContent-20q_Hp{
     display:block
-}
-.sidebar-1tnWFu .container-1NXEtd[aria-label*="!"] .content-2a4AW9 .containerDefault-3TQ5YN{
-    width:100%
 }
 .sidebar-1tnWFu .container-1NXEtd[aria-label*="!"] .content-2a4AW9{
     display:flex;

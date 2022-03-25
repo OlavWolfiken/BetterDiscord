@@ -10,7 +10,3 @@
 @import url("https://onkofonko.github.io/theme/fixedsource.css");
 @import url("https://onkofonko.github.io/theme/fixes.css");
 @import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis Square Channel Buttons/square-buttons-addon.theme.css");
-:root{
-    /*Server Name*/
-    --server-name:"INSERT SERVER NAME HERE"; /* Choose the name of the Server you want the Square Channel Buttons to be applied to */
-}

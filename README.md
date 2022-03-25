@@ -27,13 +27,17 @@ Below are some recommended installation options for the custom content. The inst
 **Note:** Before installation make sure that you meet the requirements of each custom content, if provided!
 
 ### Plugins
-1. WIP
+1. Download the file provided in the [Releases tab](https://github.com/OlavWolfiken/BetterDiscord/releases)
+2. Open your Discord client and press `CTRL + ,` to go to the User Settings, then go to **Plugins tab** of the Settings
+3. Press the **Open Plugins Folder button** and copy the downloaded file into the opened folder
+4. Go back to the app, find the corresponding switch next to the addon name, and make sure that the now installed Plugin is properly enabled
+5. And just to be sure, press `CTRL + R` to refresh the app
 
 ### Themes
 1. Download the file provided in the [Releases tab](https://github.com/OlavWolfiken/BetterDiscord/releases)
 2. Open your Discord client and press `CTRL + ,` to go to the User Settings, then go to **Themes tab** of the Settings
 3. Press the **Open Themes Folder button** and copy the downloaded file into the opened folder
-4. Go back to the app, find the corresponding switch next to the addon name, to make sure that the now installed Theme is properly enabled
+4. Go back to the app, find the corresponding switch next to the addon name, and make sure that the now installed Theme is properly enabled
 5. And just to be sure, press `CTRL + R` to refresh the app
 
 ### Snippets

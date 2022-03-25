@@ -30,14 +30,18 @@ Below are some recommended installation options for the custom content. The inst
 1. WIP
 
 ### Themes
-1. WIP
+1. Download the file provided in the [Releases tab](https://github.com/OlavWolfiken/BetterDiscord/releases)
+2. Open your Discord client and press `CTRL + ,` to go to the User Settings, then go to **Themes tab** of the Settings
+3. Press the **Open Themes Folder button** and copy the downloaded file into the opened folder
+4. Go back to the app, find the corresponding switch next to the addon name, to make sure that the now installed Theme is properly enabled
+5. And just to be sure, press `CTRL + R` to refresh the app
 
 ### Snippets
-1. Copy the contents of the gist file provided
-2. Open your Discord app and press `CTRL + ,` to go to the User Settings, then go to BetterDiscord tab of the Settings
-3. Open the Custom CSS **dropdown** to make sure that the Custom CSS **switch** is turned on
-4. Go to the Custom CSS **tab** of the Settings (here make sure the old versions are removed) and paste the copied snippet at the bottom of the pop-up
-5. Press the Save button (💾), and then the Update button (🔃)
+1. Copy the contents of the [Gist file](https://gist.github.com/OlavWolfiken) provided
+2. Open your Discord client and press `CTRL + ,` to go to the User Settings, then go to **BetterDiscord tab** of the Settings
+3. Open the **Custom CSS dropdown** to make sure that the **Custom CSS switch** is turned on
+4. Go to the **Custom CSS tab** of the Settings (here make sure the old versions are removed) and paste the copied snippet at the bottom of the pop-up
+5. Press the **Save button** (💾), and then the **Update button** (🔃)
 6. And just to be sure, press `CTRL + R` to refresh the app
 
 ## Support

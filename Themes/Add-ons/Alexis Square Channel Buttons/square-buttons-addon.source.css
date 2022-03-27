@@ -106,3 +106,7 @@
     position: absolute;
     left: calc(var(--sidebar-width) / 3.16);
 }
+
+.container-1NXEtd[aria-label*="!"] .iconItem-1EjiK0 {
+    display:none
+}

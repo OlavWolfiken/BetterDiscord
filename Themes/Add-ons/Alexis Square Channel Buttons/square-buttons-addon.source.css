@@ -1,5 +1,5 @@
 :root{
-    --addon-version:"22.03.25 (inDev) "
+    --addon-version:"22.03.27 (inDev) "
 }
 
 [id^="Alexis Square Channels Buttons Add-on"] .bd-addon-header .bd-version{
@@ -98,7 +98,7 @@
     height: 24px
 }
 
-.container-1NXEtd[aria-label*="!"] .scroller-1ox3I2.thin-31rlnD.scrollerBase-_bVAAt {
+.container-1NXEtd[aria-label*="!"] .scroller-1ox3I2 .thin-31rlnD .scrollerBase-_bVAAt {
     --mask-image: none
 }
 

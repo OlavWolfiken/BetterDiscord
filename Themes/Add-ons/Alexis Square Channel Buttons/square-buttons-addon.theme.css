@@ -1,12 +1,17 @@
 /**
  * @name Alexis Square Channels Buttons Add-on
- * @author OlafHarlender#0134
+ * @author OlavWolfiken
+ * @authorId 
  * @authorLink https://github.com/OlavWolfiken
  * @version AutoUpdate (inDev)
- * @source https://github.com/OlavWolfiken/BetterDiscord/tree/main/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons
  * @description An add-on for [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/AlexisJonsson.github.io/tree/master/BetterDiscordAddons/Themes), that allows the user to apply the custom square channel design, found on Alexis' server, to any server of their choosing. **Note:** It is recommended to use this add-on alongside the original theme!
- * @website https://olavwolfiken.github.io/
-*/
+ * @website https://olavwolfiken.github.io/BetterDiscord/
+ * @source https://github.com/OlavWolfiken/BetterDiscord/tree/main/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons
+ * @invite RYsm9RWv66
+ * @donate 
+ * @patreon 
+ * @updateUrl https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons/square-buttons-addon.theme.css
+**/
 @import url("https://onkofonko.github.io/theme/fixedsource.css");
 @import url("https://onkofonko.github.io/theme/fixes.css");
-@import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis Square Channel Buttons/square-buttons-addon.source.css");
+@import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons/square-buttons-addon.source.css");

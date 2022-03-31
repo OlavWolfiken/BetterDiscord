@@ -4,7 +4,7 @@
 This repository contains all custom content made by [OlavWolfiken](https://github.com/OlavWolfiken) for [BetterDiscord](https://betterdiscord.app/).
 
 ## Requirements
-The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed. Additionally each custom content may have their own, initial requirements, that will be provided accordingly.
+The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed. Additionally each custom content may have their own, initial requirements, that will be provided accordingly. 
 
 ## Contents
 Below you can find the full listing of the custom content compiled by [OlavWolfiken](https://github.com/OlavWolfiken).

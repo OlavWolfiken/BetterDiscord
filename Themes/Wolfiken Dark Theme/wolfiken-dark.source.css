@@ -1,1 +1,15 @@
+:root{
+    --addon-version:"22.03.31 (Concept) "
+}
 
+[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version{
+    font-size:0
+}
+
+[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before{
+    font-size:12px
+}
+
+[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before{
+    content:"version " var(--addon-version)
+}

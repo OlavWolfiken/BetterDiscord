@@ -11,5 +11,5 @@
 }
 
 [id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before{
-    content:"version " var(--addon-version)
+    content:"Release: " var(--addon-version)
 }

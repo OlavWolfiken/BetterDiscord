@@ -34,5 +34,13 @@
 }
 
 .mentioned-Tre-dv::before {
-    background-color: rgb(var(--mentioned-color))
+    background-color: rgb(var(--mentioned-color));
 }
+
+.mentioned-Tre-dv {
+    background-color: rgba(var(--mentioned-color),0.1);
+}
+
+.mentioned-Tre-dv.selected-2LX7Jy {
+    background-color: rgba(var(--mentioned-color),0.15);
+} 

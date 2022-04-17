@@ -23,3 +23,11 @@
 .bd-button:hover {
     background-color: var(--button-color);
 }
+
+.circleIconButton-1VxDrg {
+    color: var(--button-color-alt);
+}
+
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+    background-color: var(--button-color-alt);
+}

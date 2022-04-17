@@ -2,14 +2,11 @@
     --addon-version:"22.03.31 (inDev) "
 }
 
-[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version{
-    font-size:0
+[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version {
+    font-size: 0;
 }
 
-[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before{
-    font-size:12px
-}
-
-[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before{
-    content:"Release: " var(--addon-version)
+[id^="Wolfiken Dark Theme"] .bd-addon-header .bd-version:before {
+    font-size: 12px;
+    content: "Release: " var(--addon-version);
 }

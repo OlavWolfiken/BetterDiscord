@@ -10,6 +10,7 @@ Full instructions on how to install this theme can be found [here](https://olavw
 
 ## Credits
 - [Disease](https://github.com/maendisease) for his [compact BD add-on menus](https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css)
+- [Black Box community](https://discord.com/invite/TeRQEPb) for their various, big and smaller, contributions
 
 ____
 [Home](https://olavwolfiken.github.io/BetterDiscord) / [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes) / **Simple Black Theme**

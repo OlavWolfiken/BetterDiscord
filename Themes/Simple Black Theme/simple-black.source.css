@@ -1,0 +1,28 @@
+:root{
+    --addon-version:"22.04.17 (inDev) "
+}
+
+[id^="Simple Black Theme"] .bd-addon-header .bd-version {
+    font-size:0
+}
+
+[id^="Simple Black Theme"] .bd-addon-header .bd-version:before {
+    font-size:12px
+}
+
+[id^="Simple Black Theme"] .bd-addon-header .bd-version:before {
+    content:"Release: " var(--addon-version)
+}
+
+.embedFull-1HGV2S {
+    background: var(--background-tertiary);
+}
+
+.markup-eYLPri a {
+    border-color: var(--text-muted);
+}
+
+.bd-button,
+.bd-button:hover {
+    background-color: var(--button-color);
+}

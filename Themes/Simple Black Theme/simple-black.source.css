@@ -18,7 +18,7 @@
 }
 
 :root {
-    --addon-version:"22.04.18 (inDev) ";
+    --addon-version: "22.04.18 (inDev) ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
     --mentioned-color: 88, 101, 242;

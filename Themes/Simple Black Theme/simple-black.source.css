@@ -56,6 +56,10 @@
     background-color: var(--button-color);
 }
 
+.categoryHeader-OpJ1Ly {
+    background-color: var(--scrollbar-thumb);
+}
+
 .circleIconButton-1VxDrg {
     color: var(--button-color-alt);
 }

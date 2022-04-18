@@ -33,7 +33,7 @@
     content: "Release: " var(--addon-version);
 }
 
-.theme-dark [class*=base] [class*=content] [class*=container] {
+.theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {
     background-color: var(--background-primary);
 }
 

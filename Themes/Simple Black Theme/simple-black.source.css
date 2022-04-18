@@ -31,6 +31,10 @@
     animation: spin 0.8s ease;
 }
 
+.theme-dark .container-2cd8Mz {
+    background-color: var(--background-primary);
+}
+
 .embedFull-1HGV2S {
     background: var(--background-tertiary);
 }

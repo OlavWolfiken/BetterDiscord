@@ -14,8 +14,8 @@
 }
 
 :root {
-   --mentioned-color: 88, 101, 242;
-    --addon-version:"22.04.17 (inDev) ";
+    --mentioned-color: 88, 101, 242;
+    --addon-version:"22.04.18 (inDev) ";
 }
 
 [id^="Simple Black Theme"] .bd-addon-header .bd-version {

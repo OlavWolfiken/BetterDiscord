@@ -10,7 +10,7 @@ The custom content provided in this repository requires you to have [BetterDisco
 Below you can find the full listing of the custom content compiled by [OlavWolfiken](https://github.com/OlavWolfiken).
 
 ### [Plugins](https://olavwolfiken.github.io/BetterDiscord/Plugins)
-- TBD
+- WFKN Library (State: Concept, Release: TBD)
 
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 - [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: InDev, Release: TBD)

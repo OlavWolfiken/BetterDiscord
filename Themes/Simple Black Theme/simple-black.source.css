@@ -33,7 +33,7 @@
     content: "Release: " var(--addon-version);
 }
 
-#app-mount .theme-dark .container-2cd8Mz {
+.theme-dark [class*=content] [class*=container] {
     background-color: var(--background-primary);
 }
 
@@ -56,6 +56,18 @@
 .bd-addon-views .bd-view-button.selected,
 .bd-addon-modal-footer .bd-button {
     background-color: var(--button-color);
+}
+
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum {
+    background-color: var(--spoiler-hidden-background);
+}
+
+.theme-dark .spoilerText-27bIiA {
+    background-color: var(--spoiler-revealed-background);
+}
+
+.wrapper-1HIH0j {
+    background-color: var(--background-tertiary);
 }
 
 .categoryHeader-OpJ1Ly {

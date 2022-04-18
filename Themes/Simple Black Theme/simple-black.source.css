@@ -1,3 +1,18 @@
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    20% {
+        transform: rotate(-20deg);
+    }
+    70% {
+        transform: rotate(380deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
 :root {
    --mentioned-color: 88, 101, 242;
     --addon-version:"22.04.17 (inDev) ";
@@ -12,8 +27,17 @@
     content: "Release: " var(--addon-version);
 }
 
+.pill-L_aLMQ.bd-selected + .listItemWrapper-3d87LP .homeIcon-r0w4ny {
+    animation: spin 0.8s ease;
+}
+
 .embedFull-1HGV2S {
     background: var(--background-tertiary);
+}
+
+.theme-dark .root-g14mjS,
+.theme-dark .footer-31IekZ {
+    background-color: var(--background-tertiary);
 }
 
 .markup-eYLPri a {
@@ -21,7 +45,9 @@
 }
 
 .bd-button,
-.bd-button:hover {
+.bd-button:hover,
+.bd-addon-views .bd-view-button.selected,
+.bd-addon-modal-footer .bd-button {
     background-color: var(--button-color);
 }
 

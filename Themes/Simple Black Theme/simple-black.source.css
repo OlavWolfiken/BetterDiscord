@@ -49,12 +49,9 @@
 
 #chat-messages-963025708484018206 > div > div.contents-2MsGLg > img,
 #chat-messages-963025708484018206 > div > div.contents-2MsGLg > h2,
+#chat-messages-952631811199078404 > div.members-1CYCy_,
 .container-1oeRFJ[data-user-id^="956643162456203364"],
 .content-2a4AW9 > h2:nth-child(2) {
-    display: none;
-}
-
-.members-1CYCy_ {
     display: none;
 }
 

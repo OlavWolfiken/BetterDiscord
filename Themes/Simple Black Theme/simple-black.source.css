@@ -18,7 +18,7 @@
 }
 
 :root {
-    --addon-version: "22.04.18 (inDev) ";
+    --theme-version: "22.04.18 (inDev) ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
     --mentioned-color: 88, 101, 242;
@@ -30,7 +30,11 @@
 
 [id^="Simple Black Theme"] .bd-addon-header .bd-version:before {
     font-size: 12px;
-    content: "Release: " var(--addon-version);
+    content: "Release: " var(--theme-version);
+}
+
+.info-3pQQBb > span:first-child::before {
+    content: "Simple Black " var(--theme-version);
 }
 
 .theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {

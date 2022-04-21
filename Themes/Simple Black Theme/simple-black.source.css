@@ -84,7 +84,10 @@
     background-color: var(--scrollbar-thumb);
 }
 
-.cardWarning-WRe-Qa, 
+.cardWarning-WRe-Qaf {
+    border-color: var(--blue-hue-elements);
+}
+
 .cardWarning-WRe-Qa, .cardWarningOutline-oI6sWf {
     border-color: var(--blue-hue-elements);
 }

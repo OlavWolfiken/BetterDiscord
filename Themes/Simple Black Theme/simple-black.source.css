@@ -18,7 +18,7 @@
 }
 
 :root {
-    --theme-version: "dev.22.04.21a ";
+    --theme-version: "22.04.21b@dev ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -38,6 +38,54 @@
 
 .theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {
     background-color: var(--background-primary);
+}
+
+.theme-dark .pageWrapper-2PwDoS {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .container-x8Y1ix {
+    background-color: #000000;
+}
+
+.theme-dark .root-g14mjS,
+.theme-dark .footer-31IekZ {
+    background-color: #0a0a0a;
+}
+
+.theme-dark .footerSeparator-VzAYwb {
+    -webkit-box-shadow: inset 0 1px 0 rgba(10, 10, 10,.6);
+    box-shadow: inset 0 1px 0 rgba(10, 10, 10,.6);
+}
+
+.theme-dark .colorHeaderSecondary-g5teka {
+    color: #afafaf;
+}
+
+.theme-dark [id^=uid_1] > h3,
+.theme-dark .footerSeparator-VzAYwb > h3,
+.theme-dark .colorStandard-21JIj7 {
+    color: #ffffff;
+}
+
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    background-color: #252525;
+}
+
+.theme-dark .lookBlank-21BCro {
+    color: #afafaf;
+}
+.theme-dark .input-2g-os5 {
+    color: #afafaf;
+    background-color: #000000;
+}
+
+.theme-dark .anchor-1MIwyf {
+    color: #5865f2;
+}
+
+.theme-dark .container-2rCwVJ > div > div > div > input{
+    background-color: #ffffff;
 }
 
 .theme-dark .root-g14mjS,

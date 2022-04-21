@@ -18,7 +18,7 @@
 }
 
 :root {
-    --theme-version: "22.04.19 (InDev) ";
+    --theme-version: "22.04.21 (InDev) ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -100,8 +100,4 @@
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {
     background-color: var(--background-mentioned-hover);
-}
-
-.mentioned-Tre-dv::before {
-    background-color: var(--background-mentioned-border);
 }

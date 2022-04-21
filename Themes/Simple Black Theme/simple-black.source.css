@@ -21,7 +21,6 @@
     --theme-version: "22.04.19 (InDev) ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
-    --mentioned-color: 88, 101, 242;
 }
 
 [id^="Simple Black Theme"] .bd-addon-header .bd-version {
@@ -93,14 +92,16 @@
     background-color: var(--button-color-alt);
 }
 
+.mentioned-Tre-dv,
+.replying-eZ7p5z {
+    background-color: var(--background-mentioned);
+}
+
+.mentioned-Tre-dv.selected-2LX7Jy,
+.mouse-mode.full-motion .replying-eZ7p5z:hover {
+    background-color: var(--background-mentioned-hover);
+}
+
 .mentioned-Tre-dv::before {
-    background-color: rgb(var(--mentioned-color));
+    background-color: var(--background-mentioned-border);
 }
-
-.mentioned-Tre-dv {
-    background-color: rgba(var(--mentioned-color),0.1);
-}
-
-.mentioned-Tre-dv.selected-2LX7Jy {
-    background-color: rgba(var(--mentioned-color),0.15);
-} 

@@ -98,11 +98,17 @@
     background: var(--background-tertiary);
 }
 
-#chat-messages-963025708484018206 > div > div.contents-2MsGLg > img,
-#chat-messages-963025708484018206 > div > div.contents-2MsGLg > h2,
-#chat-messages-952631811199078404 > div.members-1CYCy_,
-.container-1oeRFJ[data-user-id^="956643162456203364"] {
-    display: none;
+[id^=message-content] > .betterMessageLinks{
+    color: var(--interactive-active);
+}
+
+.contents-2MsGLg .avatar-2e8lTP[data-user-id^="956643162456203364"] {
+    width: 0px;
+    height: 0px;
+}
+
+.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz > div > div > h5{
+    color: var(--text-positive);
 }
 
 .markup-eYLPri a {

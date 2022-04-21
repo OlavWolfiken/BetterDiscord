@@ -18,7 +18,7 @@
 }
 
 :root {
-    --theme-version: "22.04.21c@dev ";
+    --theme-version: "22.04.21d@dev ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -42,6 +42,10 @@
 
 .theme-dark .pageWrapper-2PwDoS {
     background-color: var(--background-primary);
+}
+
+.theme-dark .bd-social-logo path {
+    fill: #5865f2;
 }
 
 .theme-dark .container-x8Y1ix {
@@ -76,6 +80,7 @@
 .theme-dark .lookBlank-21BCro {
     color: #afafaf;
 }
+
 .theme-dark .input-2g-os5 {
     color: #afafaf;
     background-color: #000000;
@@ -87,12 +92,6 @@
 
 .theme-dark .container-2rCwVJ > div > div > div > input{
     background-color: #ffffff;
-}
-
-.theme-dark .root-g14mjS,
-.theme-dark .footer-31IekZ,
-.theme-dark .autocomplete-3NRXG8 {
-    background-color: var(--background-tertiary);
 }
 
 .embedFull-1HGV2S {

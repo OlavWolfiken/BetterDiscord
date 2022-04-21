@@ -18,7 +18,7 @@
 }
 
 :root {
-    --theme-version: "dev22.04.21 ";
+    --theme-version: "dev.22.04.21a ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -62,10 +62,14 @@
 }
 
 .bd-button,
-.bd-button:hover,
 .bd-addon-views .bd-view-button.selected,
 .bd-addon-modal-footer .bd-button {
     background-color: var(--button-color);
+}
+
+.bd-button:hover,
+.bd-addon-modal-footer .bd-button:hover {
+    background-color: var(--button-color-hover);
 }
 
 .theme-dark .spoilerText-27bIiA.hidden-3B-Rum {

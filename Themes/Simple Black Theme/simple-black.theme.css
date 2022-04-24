@@ -17,38 +17,38 @@
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css");
 
 :root {
-    --channel-color:                    #000000; /* Text */
-    --channeltextarea-background:       #0e0e0e; /* Text */
-    --chat-color:                       #000000; /* Text */
-    --chat-shadow-color:                #000000; /* Text */
-    --button-color:                     #5865f2; /* Text */
-    --button-color-hover:               #414dd8; /* Text */
-    --button-color-alt:                 #43b683; /* Text */
+    --channel-color:                    #000000;
+    --channeltextarea-background:       #0e0e0e;
+    --chat-color:                       #000000;
+    --chat-shadow-color:                #000000;
+    --button-color:                     #5865f2;
+    --button-color-hover:               #414dd8;
+    --button-color-alt:                 #43b683;
     --button-positive-background:       #43b683;
     --button-positive-background-hover: #046247;
     --button-positive-background-active:#023124;
-    --activity-color:                   #afafaf; /* Text */
-    --background-primary:               #000000; /* Text */
-    --background-secondary:             #000000; /* Text */
-    --background-secondary-alt:         #000000; /* Text */
-    --background-tertiary:              #0a0a0a; /* Text */
-    --background-mentioned:           #5865f225; /* Text */
-    --background-mentioned-hover:     #5865f250; /* Text */
-    --scrollbar-thumb:                  #252525; /* Text */
-    --background-floating:              #0e0e0e; /* Text */
-    --background-modifier-hover:        #252525; /* Text */
-    --background-modifier-accent:       #252525; /* Text */
-    --background-message-hover:       #25252557; /* Text */
-    --text-muted:                       #afafaf; /* Text */
-    --text-link:                        #5865f2; /* Text */
-    --text-positive:                    #43b683; /* Text */
-    --channels-default:                 #afafaf; /* Text */
-    --blue-hue-elements:                #5865f2; /* Text */
+    --activity-color:                   #afafaf;
+    --background-primary:               #000000;
+    --background-secondary:             #000000;
+    --background-secondary-alt:         #000000;
+    --background-tertiary:              #0a0a0a;
+    --background-mentioned:           #5865f225;
+    --background-mentioned-hover:     #5865f250;
+    --scrollbar-thumb:                  #252525;
+    --background-floating:              #0e0e0e;
+    --background-modifier-hover:        #252525;
+    --background-modifier-accent:       #252525;
+    --background-message-hover:       #25252557;
+    --text-muted:                       #afafaf;
+    --text-link:                        #5865f2;
+    --text-positive:                    #43b683;
+    --channels-default:                 #afafaf;
+    --blue-hue-elements:                #5865f2;
     --interactive-active:               #ffffff;
     --interactive-normal:               #afafaf;
     --spoiler-hidden-background:        #151515;
     --spoiler-revealed-background:      #000000;
     --status-warning-background:      #5865f250;
     --info-warning-background:        #5865f250;
-    --info-warning-foreground:          #5865f2; /* Text */
+    --info-warning-foreground:          #5865f2;
 }

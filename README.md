@@ -13,7 +13,7 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 - WFKN Library (State: Concept, Release: TBD)
 
 ### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
-- [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: InDev, Release: TBD)
+- [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: Prerelease, Release: TBD)
 - [Wolfiken Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfiken%20Dark%20Theme/) (State: Concept, Release: TBD)
 
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)

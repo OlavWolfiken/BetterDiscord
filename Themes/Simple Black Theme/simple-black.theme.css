@@ -1,0 +1,54 @@
+/**
+ * @name Simple Black Theme
+ * @author OlavWolfiken
+ * @authorId 
+ * @authorLink https://github.com/OlavWolfiken
+ * @version AutoUpdate
+ * @description A simple black theme for BetterDiscord. Includes [compact BD add-on menus](https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css) by [Disease](https://github.com/maendisease).
+ * @website https://olavwolfiken.github.io/BetterDiscord/
+ * @source https://github.com/OlavWolfiken/BetterDiscord/tree/main/Themes/Simple%20Black%20Theme
+ * @invite RYsm9RWv66
+ * @donate 
+ * @patreon 
+ * @updateUrl https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/simple-black.theme.css
+**/
+@import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/simple-black.source.css");
+@import url("https://olavwolfiken.github.io/BetterDiscord/Themes/css/home-wumpus-spin.css");
+@import url("https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css");
+
+:root {
+    --channel-color:                    #000000; /* Text */
+    --channeltextarea-background:       #0e0e0e; /* Text */
+    --chat-color:                       #000000; /* Text */
+    --chat-shadow-color:                #000000; /* Text */
+    --button-color:                     #5865f2; /* Text */
+    --button-color-hover:               #414dd8; /* Text */
+    --button-color-alt:                 #43b683; /* Text */
+    --button-positive-background:       #43b683;
+    --button-positive-background-hover: #046247;
+    --button-positive-background-active:#023124;
+    --activity-color:                   #afafaf; /* Text */
+    --background-primary:               #000000; /* Text */
+    --background-secondary:             #000000; /* Text */
+    --background-secondary-alt:         #000000; /* Text */
+    --background-tertiary:              #0a0a0a; /* Text */
+    --background-mentioned:           #5865f225; /* Text */
+    --background-mentioned-hover:     #5865f250; /* Text */
+    --scrollbar-thumb:                  #252525; /* Text */
+    --background-floating:              #0e0e0e; /* Text */
+    --background-modifier-hover:        #252525; /* Text */
+    --background-modifier-accent:       #252525; /* Text */
+    --background-message-hover:       #25252557; /* Text */
+    --text-muted:                       #afafaf; /* Text */
+    --text-link:                        #5865f2; /* Text */
+    --text-positive:                    #43b683; /* Text */
+    --channels-default:                 #afafaf; /* Text */
+    --blue-hue-elements:                #5865f2; /* Text */
+    --interactive-active:               #ffffff;
+    --interactive-normal:               #afafaf;
+    --spoiler-hidden-background:        #151515;
+    --spoiler-revealed-background:      #000000;
+    --status-warning-background:      #5865f250;
+    --info-warning-background:        #5865f250;
+    --info-warning-foreground:          #5865f2; /* Text */
+}

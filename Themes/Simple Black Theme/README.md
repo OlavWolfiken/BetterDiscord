@@ -3,7 +3,7 @@
 **Simple Black Theme** is a simple black theme for BetterDiscord made by [OlavWolfiken](https://github.com/OlavWolfiken). Includes [compact BD add-on menus](https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css) by [Disease](https://github.com/maendisease).
 
 ## Preview
-https://user-images.githubusercontent.com/50549647/164981466-98d813df-6a15-448d-9a20-ed3dead6e2c4.mp4
+![Video](https://user-images.githubusercontent.com/50549647/164981466-98d813df-6a15-448d-9a20-ed3dead6e2c4.mp4)
 
 ## Installation
 Full instructions on how to install this theme can be found [here](https://olavwolfiken.github.io/BetterDiscord#themes-1).

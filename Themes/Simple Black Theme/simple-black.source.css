@@ -1,5 +1,5 @@
 :root {
-    --theme-version: "22.04.24a ";
+    --theme-version: "22.04.26 ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -16,7 +16,6 @@
 .info-3pQQBb > span:first-child::before {
     content: "Simple Black " var(--theme-version);
 }
-
 
 .theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {
     background-color: var(--background-primary);
@@ -51,7 +50,8 @@
 
 .theme-dark [id^=uid_1] > h3,
 .theme-dark .footerSeparator-VzAYwb > h3,
-.theme-dark .colorStandard-21JIj7 {
+.theme-dark .colorStandard-21JIj7,
+.theme-dark .base-21yXnu {
     color: #ffffff;
 }
 
@@ -74,6 +74,22 @@
 
 .theme-dark .container-2rCwVJ > div > div > div > input{
     background-color: #ffffff;
+}
+
+.theme-dark .examplesForm-N_P087 .sampleLink-5BWNy9{
+    color: #afafaf;
+}
+
+.theme-dark .rowContainer-3t7486 {
+    background-color: #000000;
+}
+
+.theme-dark .rowContainer-3t7486 .rowIcon-1mRvtM {
+    color: #43b683;
+}
+
+.content-vSHmMD .anchor-1MIwyf {
+    color: #ffffff;
 }
 
 .embedFull-1HGV2S {

@@ -25,6 +25,10 @@
     background-color: var(--background-primary);
 }
 
+.container-ZMc96U.themed-Hp1KC_ {
+    background: #000000;
+}
+
 .theme-dark .bd-social-logo path {
     fill: #5865f2;
 }
@@ -88,6 +92,24 @@
     color: #43b683;
 }
 
+.theme-dark .perksModal-CLcR1c {
+    background-color: var(--background-primary);
+}
+
+.ctaBar-Nhk8yY,
+.theme-dark .tierBody-3ju-rc,
+.theme-dark .perk-19D_HN {
+    background-color: var(--background-tertiary);
+}
+
+.barForeground-2kwBa_ {
+    background-color: var(--nitro-color);
+}
+
+.theme-dark .tierMarkerBackground-G8FoN4 {
+    background-color: var(--nitro-color-alt);
+}
+
 .content-vSHmMD .anchor-1MIwyf {
     color: #ffffff;
 }
@@ -140,20 +162,21 @@
     background-color: var(--scrollbar-thumb);
 }
 
-.cardWarning-WRe-Qaf {
-    border-color: var(--blue-hue-elements);
-}
-
+.cardWarning-WRe-Qaf,
 .cardWarning-WRe-Qa, .cardWarningOutline-oI6sWf {
-    border-color: var(--blue-hue-elements);
+    border-color: var(--info-warning-foreground);
 }
 
 .circleIconButton-1VxDrg {
-    color: var(--button-color-alt);
+    color: var(--button-positive-background);
 }
 
 .circleIconButton-1VxDrg.selected-2r1Hvo {
-    background-color: var(--button-color-alt);
+    background-color: var(--button-positive-background);
+}
+
+.circleIconButton-1VxDrg.nitroUpsell-2KcFaN {
+    color: var(--interactive-active);
 }
 
 .mentioned-Tre-dv,
@@ -164,6 +187,16 @@
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {
     background-color: var(--background-mentioned-hover);
+}
+
+.newMessagesBar-1hF-9G,
+.jumpToPresentBar-1cEnH0 {
+    background-color: var(--button-color);
+}
+
+.newMessagesBar-1hF-9G:hover,
+.jumpToPresentBar-1cEnH0:hover {
+    background-color: var(--button-color-hover);
 }
 
 .bf-toolbar::before {

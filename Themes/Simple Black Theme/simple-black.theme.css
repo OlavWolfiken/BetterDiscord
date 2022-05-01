@@ -22,7 +22,6 @@
     --chat-shadow-color:                #000000;
     --button-color:                     #5865f2;
     --button-color-hover:               #414dd8;
-    --button-color-alt:                 #43b683;
     --button-positive-background:       #43b683;
     --button-positive-background-hover: #046247;
     --button-positive-background-active:#023124;
@@ -42,9 +41,10 @@
     --text-link:                        #5865f2;
     --text-positive:                    #43b683;
     --channels-default:                 #afafaf;
-    --blue-hue-elements:                #5865f2;
+    --nitro-color:                      #ff73fa;
+    --nitro-color-alt:                #ff73fa80;
     --interactive-active:               #ffffff;
-    --interactive-normal:               #afafaf;
+    --interactive-normal:               #efefef;
     --spoiler-hidden-background:        #151515;
     --spoiler-revealed-background:      #000000;
     --status-warning-background:      #5865f250;

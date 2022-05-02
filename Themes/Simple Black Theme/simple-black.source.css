@@ -1,5 +1,5 @@
 :root {
-    --theme-version: "22.05.01 ";
+    --theme-version: "22.05.02 ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -197,6 +197,23 @@
 .newMessagesBar-1hF-9G:hover,
 .jumpToPresentBar-1cEnH0:hover {
     background-color: var(--button-color-hover);
+}
+
+.newMessagesBar-1hF-9G:active,
+.jumpToPresentBar-1cEnH0:active {
+    background-color: var(--button-color-active);
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ {
+    background-color: var(--button-color);
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover {
+    background-color: var(--button-color-hover);
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:active {
+    background-color: var(--button-color-active);
 }
 
 .bf-toolbar::before {

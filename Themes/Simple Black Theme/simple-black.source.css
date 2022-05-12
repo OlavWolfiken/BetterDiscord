@@ -1,5 +1,5 @@
 :root {
-    --theme-version: "22.05.02 ";
+    --theme-version: "22.05.12 ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -122,6 +122,7 @@
     color: var(--interactive-active);
 }
 
+.member-2gU6Ar[data-user-id^="956643162456203364"],
 .message-2CShn3[data-author-id="956643162456203364"] > .contents-2MsGLg > .header-2jRmjb,
 .message-2CShn3[data-author-id="956643162456203364"] > .contents-2MsGLg > .avatar-2e8lTP {
     display: none;
@@ -158,6 +159,10 @@
     background-color: var(--background-tertiary);
 }
 
+.container-1eFtFS > div > div > div.container-2cd8Mz > section > div.toolbar-3_r2xA > a {
+    display: none;
+}
+
 .categoryHeader-OpJ1Ly {
     background-color: var(--scrollbar-thumb);
 }
@@ -191,16 +196,19 @@
 
 .newMessagesBar-1hF-9G,
 .jumpToPresentBar-1cEnH0 {
+    opacity: 1;
     background-color: var(--button-color);
 }
 
 .newMessagesBar-1hF-9G:hover,
 .jumpToPresentBar-1cEnH0:hover {
+    opacity: 1;
     background-color: var(--button-color-hover);
 }
 
 .newMessagesBar-1hF-9G:active,
 .jumpToPresentBar-1cEnH0:active {
+    opacity: 1;
     background-color: var(--button-color-active);
 }
 
@@ -226,9 +234,28 @@
     height: 25px;
 }
 
+a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
+a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
+a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
+.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link > svg > g > path:nth-child(2) {
+    fill: var(--interactive-normal);
+}
+
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 .anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:hover > svg > g > path:nth-child(2) {
-    fill: #ffffff;
+    fill: var(--interactive-hover);
+}
+
+a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
+a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
+a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
+.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:active > svg > g > path:nth-child(2) {
+    fill: var(--interactive-active);
+}
+
+.lookOutlined-3yKVGo.colorRed-rQXKgM:active {
+    background-color: var(--button-outline-danger-background-active);
+    border-color: var(--button-outline-danger-border-active);
 }

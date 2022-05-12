@@ -252,6 +252,18 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
     fill: var(--interactive-active);
 }
 
+.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link > svg > g > path {
+    fill: var(--interactive-normal);
+}
+
+.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:hover > svg > g > path:nth-child(2) {
+    fill: var(--interactive-active);
+}
+
+.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:active > svg > g > path {
+    fill: var(--interactive-active);
+}
+
 .lookOutlined-3yKVGo.colorRed-rQXKgM:active {
     background-color: var(--button-outline-danger-background-active);
     border-color: var(--button-outline-danger-border-active);

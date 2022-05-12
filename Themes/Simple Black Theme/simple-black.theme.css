@@ -44,23 +44,23 @@
     --button-positive-background-disabled:     hsl(153, calc(var(--saturation-factor, 1)*46%), 24%);
 }
 .theme-dark {
-    --channels-default:                        #afafaf;
-    --interactive-normal:                      #afafaf;
-    --interactive-hover:                       #cacaca;
-    --interactive-active:                      #ffffff;
-    --channel-color:                           #000000;
-    --channeltextarea-background:              #0e0e0e;
-    --chat-color:                              #000000;
-    --chat-shadow-color:                       #000000;
-    --background-primary:                      #000000;
-    --background-secondary:                    #000000;
-    --background-secondary-alt:                #000000;
-    --background-tertiary:                     #0a0a0a;
-    --scrollbar-thumb:                         #252525;
-    --background-floating:                     #0e0e0e;
-    --background-modifier-hover:               #252525;
-    --background-modifier-accent:              #252525;
-    --background-message-hover:              #25252557;
-    --spoiler-hidden-background:               #151515;
-    --spoiler-revealed-background:             #000000;
+    --channels-default:            #afafaf;
+    --interactive-normal:          #afafaf;
+    --interactive-hover:           #cacaca;
+    --interactive-active:          #ffffff;
+    --channel-color:               #000000;
+    --channeltextarea-background:  #0e0e0e;
+    --chat-color:                  #000000;
+    --chat-shadow-color:           #000000;
+    --background-primary:          #000000;
+    --background-secondary:        #000000;
+    --background-secondary-alt:    #000000;
+    --background-tertiary:         #0a0a0a;
+    --scrollbar-thumb:             #252525;
+    --background-floating:         #0e0e0e;
+    --background-modifier-hover:   #252525;
+    --background-modifier-accent:  #252525;
+    --background-message-hover:  #25252557;
+    --spoiler-hidden-background:   #151515;
+    --spoiler-revealed-background: #000000;
 }

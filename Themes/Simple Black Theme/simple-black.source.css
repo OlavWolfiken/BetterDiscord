@@ -1,5 +1,5 @@
 :root {
-    --theme-version: "22.05.12 ";
+    --theme-version: "22.05.12a ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --bdfdb-green: #43b683;
 }
@@ -236,22 +236,19 @@
 
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
-a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
-.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link > svg > g > path:nth-child(2) {
+a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path {
     fill: var(--interactive-normal);
 }
 
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
-a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
-.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:hover > svg > g > path:nth-child(2) {
+a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path {
     fill: var(--interactive-hover);
 }
 
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
-a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
-.anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:active > svg > g > path:nth-child(2) {
+a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path {
     fill: var(--interactive-active);
 }
 

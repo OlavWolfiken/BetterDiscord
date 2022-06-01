@@ -13,17 +13,19 @@
  * @updateUrl https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/simple-black.theme.css
 **/
 @import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/simple-black.source.css");
+@import url("https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/css/UserBackgrounds.css");
 @import url("https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css");
 
 :root {
-    --text-muted:                              hsl(0, 0%, 69%);
+    --text-normal:                             hsl(0, 0%, 90%);
+    --text-muted:                              hsl(0, 0%, 60%);
     --text-link:                               hsl(235, 86%, 65%);
     --text-positive:                           hsl(153, 46%, 49%);
     --text-warning:                            hsl(38, 96%, 54%);
     --text-danger:                             hsl(359, 67%, 54%);
     --text-brand:                              hsl(235, 87%, 65%);
     --nitro-color:                             hsl(302, 100%, 73%);
-    --nitro-color-alt:                         hsla(302, 100%, 73%, 0.502);
+    --nitro-color-active:                      hsl(302, 100%, 66%);
     --background-mentioned:                    hsla(235, 86%, 65%, 0.145);
     --background-mentioned-hover:              hsla(235, 86%, 65%, 0.314);
     --status-positive:                         hsl(153, 46%, 49%);
@@ -37,29 +39,35 @@
     --status-danger-foreground:                hsl(359, 67%, 54%);
     --info-positive-background:                hsla(153, 46%, 49%, 0.314);
     --info-positive-foreground:                hsl(153, 46%, 49%);
-    --info-warning-background:                 hsla(38, 96%, 54%, 0.314);
-    --info-warning-foreground:                 hsl(38, 96%, 54%);
+    --info-warning-background:                 hsla(235, 86%, 65%, 0.314);
+    --info-warning-foreground:                 hsl(235, 86%, 65%);
     --info-danger-background:                  hsla(359, 67%, 54%, 0.314);
     --info-danger-foreground:                  hsl(359, 67%, 54%);
     --button-color:                            hsl(235, 87%, 65%);
-    --button-color-hover:                      hsl(235, 51%, 52%);
-    --button-color-active:                     hsl(235, 47%, 44%);
+    --button-color-hover:                      hsl(235, 68%, 58%);
+    --button-color-active:                     hsl(235, 49%, 51%);
+    --button-color-disabled:                   hsl(235, 30%, 44%);
     --button-danger-background:                hsl(359, 67%, 54%);
     --button-danger-background-hover:          hsl(359, 67%, 44%);
     --button-danger-background-active:         hsl(359, 67%, 34%);
     --button-danger-background-disabled:       hsl(359, 67%, 24%);
-    --button-outline-danger-border-active:     hsl(359, 67%, 34%);
-    --button-outline-danger-background-active: hsl(359, 67%, 34%);
     --button-positive-background:              hsl(153, 46%, 49%);
     --button-positive-background-hover:        hsl(153, 46%, 44%);
     --button-positive-background-active:       hsl(153, 46%, 34%);
     --button-positive-background-disabled:     hsl(153, 46%, 24%);
+    --button-secondary-background:             hsl(0, 0%, 15%);
+    --button-secondary-background-hover:       hsl(0, 0%, 10%);
+    --button-secondary-background-active:      hsl(0, 0%, 5%);
+    --button-secondary-background-disabled:    hsl(0, 0%, 1%);
+    --button-outline-danger-border-active:     hsl(359, 67%, 34%);
+    --button-outline-danger-background-active: hsl(359, 67%, 34%);
 }
 .theme-dark {
-    --channels-default:            #afafaf;
-    --interactive-normal:          #afafaf;
-    --interactive-hover:           #cacaca;
+    --channels-default:            #999999;
+    --interactive-normal:          #999999;
+    --interactive-hover:           #cccccc;
     --interactive-active:          #ffffff;
+    --interactive-muted:           #333333;
     --channel-color:               #000000;
     --channeltextarea-background:  #0e0e0e;
     --chat-color:                  #000000;
@@ -71,9 +79,11 @@
     --background-accent:           #0a0a0a;
     --scrollbar-thumb:             #252525;
     --background-floating:         #0e0e0e;
-    --background-modifier-hover:   #252525;
-    --background-modifier-accent:  #252525;
-    --background-message-hover:    #25252557;
+    --background-modifier-hover:   #252525cc;
+    --background-modifier-active:  #25252599;
+    --background-modifier-selected:#25252566;
+    --background-modifier-accent:  #25252599;
+    --background-message-hover:    #25252566;
     --spoiler-hidden-background:   #151515;
     --spoiler-revealed-background: #000000;
 }

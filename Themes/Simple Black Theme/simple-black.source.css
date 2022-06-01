@@ -1,18 +1,20 @@
 :root {
-    --theme-version: "22.05.26 ";
+    --theme-version: "22.06.01 ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
-    --bdfdb-green: #43b683;
+    --SC-spotify-green: hsl(141, 76%, 48%);
+    --bdfdb-blurple: hsl(235, 87%, 65%);
+    --bdfdb-green: hsl(153, 46%, 49%);
+    --bdfdb-yellow: hsl(38, 96%, 54%);
+    --bdfdb-red: hsl(359, 67%, 54%);
 }
 
 [id^="Simple Black Theme"] .bd-addon-header .bd-version {
     font-size: 0;
 }
-
 [id^="Simple Black Theme"] .bd-addon-header .bd-version:before {
     font-size: 12px;
     content: "Release: " var(--theme-version);
 }
-
 .info-3pQQBb > span:first-child::before {
     content: "Simple Black " var(--theme-version);
 }
@@ -87,7 +89,6 @@
 .theme-dark .rowContainer-3t7486 {
     background-color: #000000;
 }
-
 .theme-dark .rowContainer-3t7486 .rowIcon-1mRvtM {
     color: #43b683;
 }
@@ -106,20 +107,45 @@
     background-color: var(--background-tertiary);
 }
 
-.barForeground-2kwBa_ {
-    background-color: var(--nitro-color);
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum {
+    background-color: var(--spoiler-hidden-background);
+}
+.theme-dark .spoilerText-27bIiA {
+    background-color: var(--spoiler-revealed-background);
 }
 
-.theme-dark .tierMarkerBackground-G8FoN4 {
-    background-color: var(--nitro-color-alt);
+.theme-dark .embedFull-1HGV2S {
+    background: var(--background-tertiary);
+}
+
+.theme-dark .background-fkKrXt {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .container-4HqGB3.background-3X6Uak,
+.theme-dark .container-2Hi7Km,
+.theme-dark .container-xwOzwi {
+    background-color: var(--background-tertiary);
+}
+
+.theme-dark .icon-2IDTxf {
+    border-top: 4px solid var(--background-tertiary);
+    border-left: 4px solid var(--background-tertiary);
+    border-right: 4px solid var(--background-tertiary);
+}
+
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    background-color: var(--button-secondary-background);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+    background-color: var(--button-secondary-background-hover);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:active {
+    background-color: var(--button-secondary-background-active);
 }
 
 .content-vSHmMD .anchor-1MIwyf {
     color: #ffffff;
-}
-
-.embedFull-1HGV2S {
-    background: var(--background-tertiary);
 }
 
 [id^=message-content] > .betterMessageLinks{
@@ -147,14 +173,6 @@
     background-color: var(--button-color-hover);
 }
 
-.theme-dark .spoilerText-27bIiA.hidden-3B-Rum {
-    background-color: var(--spoiler-hidden-background);
-}
-
-.theme-dark .spoilerText-27bIiA {
-    background-color: var(--spoiler-revealed-background);
-}
-
 .wrapper-1HIH0j {
     background-color: var(--background-tertiary);
 }
@@ -175,11 +193,9 @@
 .circleIconButton-1VxDrg {
     color: var(--button-positive-background);
 }
-
 .circleIconButton-1VxDrg.selected-2r1Hvo {
     background-color: var(--button-positive-background);
 }
-
 .circleIconButton-1VxDrg.nitroUpsell-2KcFaN {
     color: var(--interactive-active);
 }
@@ -188,7 +204,6 @@
 .replying-eZ7p5z {
     background-color: var(--background-mentioned);
 }
-
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {
     background-color: var(--background-mentioned-hover);
@@ -199,13 +214,11 @@
     opacity: 1;
     background-color: var(--button-color);
 }
-
 .newMessagesBar-1hF-9G:hover,
 .jumpToPresentBar-1cEnH0:hover {
     opacity: 1;
     background-color: var(--button-color-hover);
 }
-
 .newMessagesBar-1hF-9G:active,
 .jumpToPresentBar-1cEnH0:active {
     opacity: 1;
@@ -215,11 +228,9 @@
 .lookFilled-yCfaCM.colorBrand-I6CyqQ {
     background-color: var(--button-color);
 }
-
 .lookFilled-yCfaCM.colorBrand-I6CyqQ:hover {
     background-color: var(--button-color-hover);
 }
-
 .lookFilled-yCfaCM.colorBrand-I6CyqQ:active {
     background-color: var(--button-color-active);
 }
@@ -229,13 +240,11 @@ a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path,
 a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX > svg > g > path {
     fill: var(--interactive-normal);
 }
-
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path,
 a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:hover > svg > g > path {
     fill: var(--interactive-hover);
 }
-
 a[title^=Twitter].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
 a[title^=Facebook].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path,
 a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g > path {
@@ -245,11 +254,9 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
 .anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link > svg > g > path {
     fill: var(--interactive-normal);
 }
-
 .anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:hover > svg > g > path:nth-child(2) {
     fill: var(--interactive-active);
 }
-
 .anchor-1MIwyf.anchorUnderlineOnHover-2qPutX.bd-social-link:active > svg > g > path {
     fill: var(--interactive-active);
 }
@@ -257,6 +264,43 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
 .lookOutlined-3yKVGo.colorRed-rQXKgM:active {
     background-color: var(--button-outline-danger-background-active);
     border-color: var(--button-outline-danger-border-active);
+}
+
+.rtcConnectionStatusConnected-1c73OK.lookBlank-21BCro {
+    color: var(--text-positive);
+}
+
+.colorBrand-3cPPsm {
+    color: var(--text-brand)
+}
+
+.colorPremium-vwmYZQ {
+    color: var(--nitro-color)
+}
+.colorPremium-vwmYZQ.focused-3qFvc8 {
+    background-color: var(--nitro-color)
+}
+.colorPremium-vwmYZQ.focused-3qFvc8:active {
+    background-color: var(--nitro-color-active)
+}
+
+.barForeground-2kwBa_ {
+    background-color: var(--nitro-color);
+}
+
+.serverBoostTabItem-3QwA3W[aria-selected=true],
+.item-3XjbnG.selected-g-kMVV.themed-2-lozF > .background-Gjdjzm.selectedBackground-1t6xXq {
+    background-color: var(--nitro-color)!important;
+}
+
+.tierMarkerBackground-G8FoN4 {
+    background-color: #ff75fa00;
+}
+.tierMarkerInProgress-2Tdxjz {
+    background-color: #ff75fa57;
+}
+.tierMarkerAccomplished-1SkbEJ {
+    background-color: #ff75fa;
 }
 
 #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div.container-1eFtFS > div > div > div.chat-2ZfjoI > section > div.toolbar-3_r2xA > a {

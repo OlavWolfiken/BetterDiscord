@@ -1,5 +1,5 @@
 :root {
-    --theme-version-test: "22.06.01@test ";
+    --theme-version-test: "22.06.01a@test ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -301,6 +301,43 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
 }
 .tierMarkerAccomplished-1SkbEJ {
     background-color: #ff75fa;
+}
+
+.monaco-editor,
+.monaco-editor-background,
+.monaco-editor .inputarea.ime-input,
+.monaco-editor .margin {
+    background-color: var(--background-tertiary) !important;
+}
+
+.item-3XjbnG[aria-label="Log Out"]{
+    color: var(--button-danger-background);
+}
+.item-3XjbnG[aria-label="Log Out"]:hover{
+    color: var(--interactive-hover);
+}
+.item-3XjbnG[aria-label="Log Out"]:active{
+    color: var(--interactive-active);
+}
+.item-3XjbnG[aria-label="Log Out"] div svg path {
+    fill: var(--button-danger-background);
+}
+.item-3XjbnG[aria-label="Log Out"]:hover div svg path {
+    fill: var(--interactive-hover);
+}
+.item-3XjbnG[aria-label="Log Out"]:active div svg path {
+    fill: var(--interactive-active);
+}
+.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:hover:not(.disabled-1nofHP) {
+    background-color: var(--button-danger-background-hover);
+}
+.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:active:not(.disabled-1nofHP) {
+    background-color: var(--button-danger-background-active);
+}
+
+.marginTop8-24uXGp .container-1zDvAE,
+.marginTop8-24uXGp > div[aria-labelledby="uid_6163"] > div:not(:nth-child(1)) {
+    display: none;
 }
 
 #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div.container-1eFtFS > div > div > div.chat-2ZfjoI > section > div.toolbar-3_r2xA > a {

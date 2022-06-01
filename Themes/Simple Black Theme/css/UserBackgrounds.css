@@ -1,0 +1,50 @@
+.UserBackgrounds-banner-container .UserBackgrounds-banner-badge {
+    bottom: unset !important;
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background-color: #202225cc !important
+}
+.UserBackgrounds-banner-container .UserBackgrounds-banner-arrow,
+.UserBackgrounds-banner-container .UserBackgrounds-banner-badge {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -5px, 0);
+    transform: translate3d(0, -5px, 0);
+    -webkit-transition: opacity .15s ease-out, -webkit-transform .15s ease-out;
+    transition: opacity .15s ease-out, -webkit-transform .15s ease-out;
+    transition: opacity .15s ease-out, transform .15s ease-out;
+    transition: opacity .15s ease-out, transform .15s ease-out, -webkit-transform .15s ease-out
+}
+.UserBackgrounds-banner-container:hover .UserBackgrounds-banner-arrow,
+.UserBackgrounds-banner-container:hover .UserBackgrounds-banner-badge {
+    opacity: 1;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0)
+}
+.UserBackgrounds-banner-arrow {
+    position: absolute;
+    top: 0;
+    z-index: 99;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box
+}
+.UserBackgrounds-banner-arrow.UserBackgrounds-banner-right {
+    left: calc(32px + 8px);
+    right: unset !important
+}
+.UserBackgrounds-banner-arrow.UserBackgrounds-banner-left {
+    left: 8px !important
+}
+.UserBackgrounds-banner-arrow.sizeTiny-3y2SSK {
+    width: 32px;
+    height: 24px;
+    min-width: 32px;
+    min-height: 24px
+}
+.UserBackgrounds-banner-arrow svg {
+    color: var(--interactive-normal)
+}
+.UserBackgrounds-banner-arrow:hover svg {
+    color: var(--interactive-hover)
+}

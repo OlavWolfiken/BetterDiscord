@@ -9,7 +9,8 @@
 Full instructions on how to install this theme can be found [here](https://olavwolfiken.github.io/BetterDiscord#themes-1).
 
 ## Credits
-- [Disease](https://github.com/maendisease) for his [compact BD add-on menus](https://github.com/maendisease/BetterDiscordStuff/tree/master/css) ([source](https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css))
+- [AlexisJonsson](https://github.com/AlexisJonsson) for introducing me to CSS
+- [Disease](https://github.com/maendisease) for his [compact BD add-on menus](https://github.com/maendisease/BetterDiscordStuff/tree/main/css) ([source](https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css))
 - [Black Box community](https://discord.com/invite/TeRQEPb) for their various, big and smaller, contributions
 
 ____

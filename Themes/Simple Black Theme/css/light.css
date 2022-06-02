@@ -1,4 +1,65 @@
-.theme-light .typeWindows-2-g3UY.withFrame-2dL45i {
-    height: 100%;
-    background-color: white !important;
+
+.theme-light {
+    --logo-primary: #ffffff;
+/** Header Colors **/
+    --header-primary:   hsl(0, 0%, 0%);
+    --header-secondary: hsl(0, 0%, 23%);
+/** Text Colors **/
+    --text-normal:          hsl(0, 0%, 20%);
+    --text-muted:           hsl(0, 0%, 40%);
+    --status-positive-text: hsl(0, 0%, 100%);
+    --status-warning-text:  hsl(0, 0%, 0%);
+    --status-danger-text:   hsl(0, 0%, 100%);
+/** Background Colors **/
+    --background-primary:          hsl(0, 0%, 100%);
+    --background-secondary:        hsl(0, 0%, 100%);
+    --background-secondary-alt:    hsl(0, 0%, 100%);
+    --background-tertiary:         hsl(0, 0%, 96%);
+    --background-accent:           hsl(0, 0%, 96%);
+    --background-floating:         hsl(0, 0%, 95%);
+    --background-nested-floating:  hsl(0, 0%, 82%);
+    --background-mobile-primary:   hsl(0, 0%, 96%);
+    --background-mobile-secondary: hsl(0, 0%, 82%);
+/** Chat Colors **/
+    --chat-background:                 hsl(0, 0%, 96%);
+    --chat-border:                     hsl(0, 0%, 85%);
+    --chat-input-container-background: hsl(0, 0%, 96%);
+/** Background Modifier Colors **/
+    --background-modifier-hover:   hsla(0, 0%, 85%, 0.8);
+    --background-modifier-active:  hsla(0, 0%, 85%, 0.6);
+    --background-modifier-selected:hsla(0, 0%, 85%, 0.4);
+    --background-modifier-accent:  hsla(0, 0%, 85%, 0.6);
+/** Modal Colors **/
+    --modal-background:        hsl(0, 0%, 96%);
+    --modal-footer-background: hsl(0, 0%, 96%);
+/** Scrollbar Colors **/
+    --scrollbar-thin-thumb:                 hsl(0, 0%, 85%);
+    --scrollbar-thin-track:                 hsl(0, 0%, 0%);
+    --scrollbar-auto-thumb:                 hsl(0, 0%, 85%);
+    --scrollbar-auto-track:                 hsl(0, 0%, 82%);
+    --scrollbar-auto-scrollbar-color-thumb: hsl(0, 0%, 85%);
+    --scrollbar-auto-scrollbar-color-track: hsl(0, 0%, 82%);
+/** Input Colors **/
+    --input-background:       hsl(0, 0%, 100%);
+    --input-placeholder-text: hsl(0, 0%, 20%);
+/** Channel Colors **/
+    --channel-color:                 hsl(0, 0%, 100%);
+    --channels-default:              hsl(0, 0%, 40%);
+    --channel-icon:                  hsl(0, 0%, 40%);
+    --channel-text-area-placeholder: hsl(0, 0%, 20%);
+    --channeltextarea-background:    hsl(0, 0%, 95%);
+/** Interactive Colors **/
+    --interactive-normal: hsl(0, 0%, 40%);
+    --interactive-hover:  hsl(0, 0%, 20%);
+    --interactive-active: hsl(0, 0%, 0%);
+    --interactive-muted:  hsl(0, 0%, 80%);
+/** Chat Colors **/
+    --chat-color:        hsl(0, 0%, 100%);
+    --chat-shadow-color: hsl(0, 0%, 100%);
+/** Spoiler Colors **/
+    --spoiler-hidden-background:   hsl(0, 0%, 92%);
+    --spoiler-revealed-background: #ffffff;
+/** Misc Colors **/
+    --activity-card-background:   hsl(0, 0%, 85%);
+    --background-message-hover: hsla(0, 0%, 85%, 0.4);
 }

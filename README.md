@@ -16,11 +16,14 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 - [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: Prerelease, Release: TBD)
 - [Wolfiken Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfiken%20Dark%20Theme/) (State: Concept, Release: TBD)
 
+#### Forks
+- [Alexis Modern Theme](https://olavwolfiken.github.io/AlexisModernTheme/) (State: Fork, Release: TBD)
+
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
 ### Snippets
-- [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.css)
+- [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css)
 
 ## Installation
 Below are some recommended installation options for the custom content. The installation proccess may vary slightly between different custom content. 

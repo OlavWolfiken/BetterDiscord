@@ -1,4 +1,4 @@
-# BetterDiscord Repo
+# OlavWolfiken's BetterDiscord
 ![Total downloads](https://img.shields.io/github/downloads/OlavWolfiken/BetterDiscord/total) ![License](https://img.shields.io/github/license/OlavWolfiken/BetterDiscord) ![Commit activity](https://img.shields.io/github/commit-activity/w/OlavWolfiken/BetterDiscord) ![Discord](https://img.shields.io/discord/952631810397995098?label=support%20server&url=https://discord.gg/RYsm9RWv66)
 
 This repository contains all custom content made by [OlavWolfiken](https://github.com/OlavWolfiken) for [BetterDiscord](https://betterdiscord.app/).
@@ -19,11 +19,11 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 #### Add-ons [»](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
-### Forks
-- [Alexis Modern Theme](https://olavwolfiken.github.io/AlexisModernTheme/) (State: Fork, Release: TBD)
+### Forks [»](https://olavwolfiken.github.io/BetterDiscord/Forks)
+- [Alexis Modern Theme](https://olavwolfiken.github.io/AlexisModernTheme), sourced from [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/Alexisjonsson.github.io/tree/master/BetterDiscordAddons/Themes/) (State: Prerelease, Release: TBD)
 
 ### Snippets
-- [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c) extracted from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css)
+- [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c), sourced from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css)
 
 ## Installation
 Below are some recommended installation options for the custom content. The installation proccess may vary slightly between different custom content. 

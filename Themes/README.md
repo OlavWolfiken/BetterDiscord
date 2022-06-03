@@ -1,4 +1,6 @@
 # Themes
+> _For a list containing themes forked by OlavWolfiken see: [Forks](https://olavwolfiken.github.io/BetterDiscord/Forks#themes)_
+
 Below you can find the full listing of various themes compiled by [OlavWolfiken](https://github.com/OlavWolfiken). For installation instructions follow [this link](https://olavwolfiken.github.io/BetterDiscord/Forks#themes-1).
 
 - [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: Prerelease, Release: TBD)
@@ -7,7 +9,5 @@ Below you can find the full listing of various themes compiled by [OlavWolfiken]
 ## Add-ons
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
-____
-_For a list containing themes forked by OlavWolfiken see: [Theme Forks](https://olavwolfiken.github.io/BetterDiscord/Forks#themes)_
 ____
 [Home](https://olavwolfiken.github.io/BetterDiscord) / **Themes**

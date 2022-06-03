@@ -1,7 +1,7 @@
 # OlavWolfiken's BetterDiscord
 ![Total downloads](https://img.shields.io/github/downloads/OlavWolfiken/BetterDiscord/total) ![License](https://img.shields.io/github/license/OlavWolfiken/BetterDiscord) ![Commit activity](https://img.shields.io/github/commit-activity/w/OlavWolfiken/BetterDiscord) ![Discord](https://img.shields.io/discord/952631810397995098?label=support%20server&url=https://discord.gg/RYsm9RWv66)
 
-This repository contains all custom content made by [OlavWolfiken](https://github.com/OlavWolfiken) for [BetterDiscord](https://betterdiscord.app/).
+This repository contains all [BetterDiscord](https://betterdiscord.app/) add-ons made, compiled and forked by [OlavWolfiken](https://github.com/OlavWolfiken).
 
 ## Requirements
 The custom content provided in this repository requires you to have [BetterDiscord](https://betterdiscord.app/) installed. Additionally each custom content may have their own, initial requirements, that will be provided accordingly. 

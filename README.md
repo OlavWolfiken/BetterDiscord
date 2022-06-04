@@ -9,17 +9,17 @@ The custom content provided in this repository requires you to have [BetterDisco
 ## Contents
 Below you can find the full listing of the custom content compiled by [OlavWolfiken](https://github.com/OlavWolfiken).
 
-### Plugins [»](https://olavwolfiken.github.io/BetterDiscord/Plugins)
+### [Plugins](https://olavwolfiken.github.io/BetterDiscord/Plugins)
 - WFKN Library (State: Concept, Release: TBD)
 
-### Themes [»](https://olavwolfiken.github.io/BetterDiscord/Themes)
+### [Themes](https://olavwolfiken.github.io/BetterDiscord/Themes)
 - [Simple Black Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Simple%20Black%20Theme/) (State: Prerelease, Release: TBD)
 - [Wolfiken Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfiken%20Dark%20Theme/) (State: Concept, Release: TBD)
 
-#### Add-ons [»](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
+#### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
 - [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
 
-### Forks [»](https://olavwolfiken.github.io/BetterDiscord/Forks)
+### [Forks](https://olavwolfiken.github.io/BetterDiscord/Forks)
 - [Alexis Modern Theme](https://olavwolfiken.github.io/AlexisModernTheme), forked from [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/Alexisjonsson.github.io/tree/master/BetterDiscordAddons/Themes/) (State: Prerelease, Release: TBD)
 
 ### Snippets

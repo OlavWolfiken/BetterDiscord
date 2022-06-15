@@ -1,3 +1,5 @@
 remote_theme: jekyll-theme-minimal
 title: OlavWoliken's BetterDiscord Repository
 description: This repository contains all BetterDiscord add-ons made, compiled and forked by OlavWolfiken.
+
+theme: jekyll-theme-minimal

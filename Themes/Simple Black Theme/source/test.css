@@ -1,5 +1,5 @@
 :root {
-    --theme-version-dev: "22.06.30@test ";
+    --theme-version-test: "22.06.30@test ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -13,10 +13,10 @@
 }
 [id^="Simple Black Theme Test Build"] .bd-addon-header .bd-version:before {
     font-size: 12px;
-    content: "Release: " var(--theme-version-dev);
+    content: "Release: " var(--theme-version-test);
 }
 .info-3pQQBb > span:first-child::before {
-    content: "Simple Black " var(--theme-version-dev);
+    content: "Simple Black " var(--theme-version-test);
 }
 
 .theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {

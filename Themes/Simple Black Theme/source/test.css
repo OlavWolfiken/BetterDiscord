@@ -1,5 +1,5 @@
 :root {
-    --theme-version-dev: "22.06.30@dev ";
+    --theme-version-dev: "22.06.30@test ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -8,10 +8,10 @@
     --bdfdb-red: hsl(359, 67%, 54%);
 }
 
-[id^="Simple Black Theme Dev Build"] .bd-addon-header .bd-version {
+[id^="Simple Black Theme Test Build"] .bd-addon-header .bd-version {
     font-size: 0;
 }
-[id^="Simple Black Theme Dev Build"] .bd-addon-header .bd-version:before {
+[id^="Simple Black Theme Test Build"] .bd-addon-header .bd-version:before {
     font-size: 12px;
     content: "Release: " var(--theme-version-dev);
 }

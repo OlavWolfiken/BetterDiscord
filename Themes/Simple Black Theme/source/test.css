@@ -1,5 +1,5 @@
 :root {
-    --theme-version-test: "22.06.01b@test ";
+    --theme-version-dev: "22.06.30@dev ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -8,15 +8,15 @@
     --bdfdb-red: hsl(359, 67%, 54%);
 }
 
-[id^="Simple Black Theme Test Build"] .bd-addon-header .bd-version {
+[id^="Simple Black Theme Dev Build"] .bd-addon-header .bd-version {
     font-size: 0;
 }
-[id^="Simple Black Theme Test Build"] .bd-addon-header .bd-version:before {
+[id^="Simple Black Theme Dev Build"] .bd-addon-header .bd-version:before {
     font-size: 12px;
-    content: "Release: " var(--theme-version-test);
+    content: "Release: " var(--theme-version-dev);
 }
 .info-3pQQBb > span:first-child::before {
-    content: "Simple Black " var(--theme-version-test);
+    content: "Simple Black " var(--theme-version-dev);
 }
 
 .theme-dark .base-2jDfDU .content-1SgpWY .container-2cd8Mz {
@@ -162,6 +162,10 @@
     border-color: var(--text-muted);
 }
 
+.bd-settings-title {
+    color: var(--header-primary);
+}
+
 .bd-button,
 .bd-addon-views .bd-view-button.selected,
 .bd-addon-modal-footer .bd-button {
@@ -203,6 +207,10 @@
 .mentioned-Tre-dv,
 .replying-eZ7p5z {
     background-color: var(--background-mentioned);
+}
+.mentioned-Tre-dv:before,
+.mentioned-Tre-dv:hover:before {
+    background-color: var(--foreground-mentioned);
 }
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {
@@ -310,31 +318,13 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
     background-color: var(--background-tertiary) !important;
 }
 
-.item-3XjbnG[aria-label="Log Out"]{
-    color: var(--button-danger-background);
+.ShowSessions-list-sessionsList {
+    color: var(--header-primary) !important;
 }
-.item-3XjbnG[aria-label="Log Out"]:hover{
-    color: var(--interactive-hover);
-}
-.item-3XjbnG[aria-label="Log Out"]:active{
-    color: var(--interactive-active);
-}
-.item-3XjbnG[aria-label="Log Out"] div svg path {
-    fill: var(--button-danger-background);
-}
-.item-3XjbnG[aria-label="Log Out"]:hover div svg path {
-    fill: var(--interactive-hover);
-}
-.item-3XjbnG[aria-label="Log Out"]:active div svg path {
-    fill: var(--interactive-active);
-}
-.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:hover:not(.disabled-1nofHP) {
-    background-color: var(--button-danger-background-hover);
-}
-.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:active:not(.disabled-1nofHP) {
-    background-color: var(--button-danger-background-active);
+.ShowSessions-list-item {
+    background-color: var(--background-tertiary) !important;
 }
 
-#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div.container-1eFtFS > div > div > div.chat-2ZfjoI > section > div.toolbar-3_r2xA > a {
+.item-3XjbnG.themed-2-lozF[aria-controls="hypesquad-online-tab"] {
     display: none;
 }

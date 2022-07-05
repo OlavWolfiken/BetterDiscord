@@ -1,5 +1,5 @@
 :root {
-    --theme-version-dev: "22.07.05@dev ";
+    --theme-version-dev: "22.07.05a@dev ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -206,15 +206,15 @@
 
 .mentioned-Tre-dv,
 .replying-eZ7p5z {
-    background-color: var(--background-mentioned);
-}
-.mentioned-Tre-dv:before,
-.mentioned-Tre-dv:hover:before {
-    background-color: var(--background-mentioned-color);
+    background-color: var(--mentioned-background);
 }
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {
-    background-color: var(--background-mentioned-hover);
+    background-color: var(--mentioned-background-hover);
+}
+.mentioned-Tre-dv:before,
+.mentioned-Tre-dv:hover:before {
+    background-color: var(--mentioned-color);
 }
 
 .newMessagesBar-1hF-9G,
@@ -309,6 +309,74 @@ a[title^=Instagram].anchor-1MIwyf.anchorUnderlineOnHover-2qPutX:active > svg > g
 }
 .tierMarkerAccomplished-1SkbEJ {
     background-color: #ff75fa;
+}
+
+.theme-dark .message-G6O-Wv {
+    background-color: var(--background-primary);
+}
+
+.item-3XjbnG[aria-label="Log Out"] {
+    color: var(--button-danger-background);
+}
+.item-3XjbnG[aria-label="Log Out"]:hover {
+    color: var(--interactive-active);
+}
+.item-3XjbnG[aria-label="Log Out"]:active {
+    color: var(--interactive-active);
+}
+.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:hover:not(.disabled-1nofHP) {
+    background-color: var(--button-danger-background);
+}
+.themed-2-lozF.item-3XjbnG[aria-label="Log Out"]:active:not(.disabled-1nofHP) {
+    background-color: var(--button-danger-background-active);
+}
+
+.item-1OdjEX[id="user-context-block"] {
+    color: var(--button-danger-background);
+}
+.item-1OdjEX[id="user-context-block"].focused-3qFvc8 {
+    background-color: var(--button-danger-background);
+    color: var(--interactive-active);
+}
+.item-1OdjEX[id="user-context-block"]:active:not(.hideInteraction-2jPGL_), 
+.item-1OdjEX[id="user-context-block"]:active.focused-3qFvc8 {
+    background-color: var(--button-danger-background-active);
+    color: var(--interactive-active);
+}
+
+.colorInfo-1kEg3T {
+    background-color: var(--info-help-foreground);
+    color: var(--info-help-text);
+}
+.colorInfo-1kEg3T .button-1iHNQ2:hover {
+    color: var(--info-help-foreground);
+}
+.colorSuccess-2js6tw {
+    background-color: var(--info-positive-foreground);
+    color: var(--info-positive-text);
+}
+
+.ownerIcon-255uKo.icon-1dGlZy.owner-FfFh3B {
+    color: hsl(38, 96%, 54%);
+}
+.ownerIcon-255uKo.icon-1dGlZy.admin-Kv1Hp_ {
+    color: hsl(255, 2%, 67%);
+}
+.ownerIcon-255uKo.icon-1dGlZy.management-3fF_o8 {
+    color: hsl(35, 85%, 29%);
+}
+
+.theme-dark .keybindShortcut-3zF1P9 .key-N5VmHN {
+    -webkit-box-shadow: inset 0 -4px 0 #252525;
+    box-shadow: inset 0 -4px 0 #252525;
+}
+.theme-dark .key-N5VmHN {
+    background-color: var(--background-accent);
+    border: 1px solid var(--background-primary);
+}
+
+a.anchor-1MIwyf[href="https://support.discord.com"] {
+    display: none;
 }
 
 .monaco-editor,

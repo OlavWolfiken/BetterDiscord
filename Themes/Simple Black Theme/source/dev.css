@@ -1,5 +1,5 @@
 :root {
-    --theme-version-dev: "22.06.30@dev ";
+    --theme-version-dev: "22.07.05@dev ";
     --bdAddonMini-bg-unchecked-hover: #0a0a0a;
     --SC-spotify-green: hsl(141, 76%, 48%);
     --bdfdb-blurple: hsl(235, 87%, 65%);
@@ -210,7 +210,7 @@
 }
 .mentioned-Tre-dv:before,
 .mentioned-Tre-dv:hover:before {
-    background-color: var(--foreground-mentioned);
+    background-color: var(--background-mentioned-color);
 }
 .mentioned-Tre-dv.selected-2LX7Jy,
 .mouse-mode.full-motion .replying-eZ7p5z:hover {

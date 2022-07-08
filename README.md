@@ -17,7 +17,7 @@ Below you can find the full listing of the custom content compiled by [OlavWolfi
 - [Wolfiken Dark Theme](https://olavwolfiken.github.io/BetterDiscord/Themes/Wolfiken%20Dark%20Theme/) (State: Concept, Release: TBD)
 
 #### [Add-ons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons)
-- [Alexis Square Channel Buttons](https://olavwolfiken.github.io/BetterDiscord/Themes/Add-ons/Alexis%20Square%20Channel%20Buttons) (State: InDev, Release: TBD)
+- **Alexis Square Channel Buttons** (State: Abandoned)
 
 ### [Forks](https://olavwolfiken.github.io/BetterDiscord/Forks)
 - [Alexis Modern Theme](https://olavwolfiken.github.io/AlexisModernTheme), forked from [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/Alexisjonsson.github.io/tree/master/BetterDiscordAddons/Themes/) (State: Prerelease, Release: TBD)

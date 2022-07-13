@@ -12,26 +12,25 @@ body:
       multiple: false
       options:
         - Simple Black Theme
-        - Wolfiken Dark Theme
     validations:
       required: true
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
+      description: What were you doing before the issue occured and what did you expect to happen?
       placeholder: Tell us what you see!
     validations:
       required: true
   - type: dropdown
     id: client
     attributes:
-      label: What Discord client are you using the theme on?
+      label: Which Discord client are you using the theme on? [What is a discord client?](https://support.discord.com/hc/en-us/articles/360052735334)
       multiple: true
       options:
         - Stable
+        - PTB (Preview Testing Build)
         - Canary
-        - PTB
     validations:
       required: false
   - type: input
@@ -39,5 +38,21 @@ body:
     attributes:
       label: What is your Discord client's version?
       placeholder: ex. Stable 118205 (081ceba)
+    validations:
+      required: false
+  - type: dropdown
+    id: client-mod
+    attributes:
+      label: Which Discord client mod are you using the theme on?
+      multiple: true
+      options:
+        - BetterDiscord
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: What is your Discord client mod's version?
+      placeholder: ex. 1.5.3 (BetterDiscord)
     validations:
       required: false

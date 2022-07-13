@@ -11,6 +11,7 @@ body:
       label: Which theme are requesting a feature for?
       multiple: false
       options:
+        - Simple Black Theme
         - Wolfiken Dark Theme
     validations:
       required: true

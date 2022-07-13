@@ -37,7 +37,7 @@ body:
     id: version
     attributes:
       label: What is your Discord client's version?
-      placeholder: ex. Stable 118205 (081ceba)
+      placeholder: ex. Stable 136100 (5e0883f)
     validations:
       required: false
   - type: dropdown

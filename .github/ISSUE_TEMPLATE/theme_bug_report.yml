@@ -11,6 +11,7 @@ body:
       label: Which theme are you having trouble with?
       multiple: false
       options:
+        - Simple Black Theme
         - Wolfiken Dark Theme
     validations:
       required: true

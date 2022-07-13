@@ -41,7 +41,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: client-mod
+    id: mod-client
     attributes:
       label: Which Discord client mod are you using the theme on?
       multiple: true
@@ -50,7 +50,7 @@ body:
     validations:
       required: false
   - type: input
-    id: version
+    id: mod-version
     attributes:
       label: What is your Discord client mod's version?
       placeholder: ex. 1.5.3 (BetterDiscord)

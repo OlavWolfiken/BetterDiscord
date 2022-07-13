@@ -12,6 +12,7 @@ body:
       multiple: false
       options:
         - Simple Black Theme
+        - Wolfiken Dark Theme
     validations:
       required: true
   - type: textarea

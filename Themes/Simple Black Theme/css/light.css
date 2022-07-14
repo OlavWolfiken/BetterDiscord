@@ -1,7 +1,9 @@
-.theme-light [id*="Simple Black Theme"] .bd-addon-header .bd-name {
+/** Simple Black Theme - Light Mode Styling Module **/
+
+.theme-light [id="Simple Black Theme"] .bd-addon-header .bd-name {
     font-size: 0;
 }
-.theme-light [id*="Simple Black Theme"] .bd-addon-header .bd-name:before {
+.theme-light [id="Simple Black Theme"] .bd-addon-header .bd-name:before {
     font-size: 14px;
     content: "Simple White Theme";
 }

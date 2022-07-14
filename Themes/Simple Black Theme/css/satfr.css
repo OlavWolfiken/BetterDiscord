@@ -1,0 +1,90 @@
+/** Simple Black Theme - Saturation Factor Module **/
+
+:root {
+    --brand-color: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+/** Text Colors **/
+    --text-link: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --text-link-low-saturation: hsl(235, calc(var(--saturation-factor, 1)*43%), 65%);
+    --text-danger: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --text-positive: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --text-warning: hsl(38, calc(var(--saturation-factor, 1)*96%), 54%);
+    --text-brand: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --text-mention: hsl(235, calc(var(--saturation-factor, 1)*86%), 96%);
+/** Nitro Colors **/
+    --nitro-color: hsl(302, calc(var(--saturation-factor, 1)*100%), 73%);
+    --nitro-color-hover: hsl(302, calc(var(--saturation-factor, 1)*90%), 68%);
+    --nitro-color-active: hsl(302, calc(var(--saturation-factor, 1)*80%), 63%);
+/** Control Brand Colors **/
+    --control-brand-foreground: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --control-brand-foreground-new: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+/** Mention Colors **/
+    --background-mentioned: hsla(235, calc(var(--saturation-factor, 1)*86%), 65%, 0.145);
+    --background-mentioned-hover: hsla(235, calc(var(--saturation-factor, 1)*86%), 65%, 0.314);
+/** Message Hover Colors **/
+    --background-message-automod: hsla(359, calc(var(--saturation-factor, 1)*67%), 54%, 0.145);
+    --background-message-automod-hover: hsla(359, calc(var(--saturation-factor, 1)*67%), 54%, 0.314);
+/** Info Colors **/
+    --info-danger-background: hsla(359, calc(var(--saturation-factor, 1)*67%), 54%, 0.314);
+    --info-danger-foreground: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --info-positive-background: hsla(153, calc(var(--saturation-factor, 1)*46%), 49%, 0.314);
+    --info-positive-foreground: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --info-warning-background: hsla(38, calc(var(--saturation-factor, 1)*96%), 54%, 0.314);
+    --info-warning-foreground: hsl(38, calc(var(--saturation-factor, 1)*96%), 54%);
+    --info-help-background: hsla(235, calc(var(--saturation-factor, 1)*86%), 65%, 0.314);
+    --info-help-foreground: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+/** Status Colors **/
+    --status-danger: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --status-danger-background: hsla(359, calc(var(--saturation-factor, 1)*67%), 54%, 0.314);
+    --status-positive: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --status-positive-background: hsla(153, calc(var(--saturation-factor, 1)*46%), 49%, 0.314);
+    --status-warning: hsl(38, calc(var(--saturation-factor, 1)*96%), 54%);
+    --status-warning-background: hsla(38, calc(var(--saturation-factor, 1)*96%), 54%, 0.314);
+/** Button Colors **/
+    --button-color: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --button-color-hover: hsl(235, calc(var(--saturation-factor, 1)*68%), 58%);
+    --button-color-active: hsl(235, calc(var(--saturation-factor, 1)*49%), 51%);
+    --button-color-disabled: hsl(235, calc(var(--saturation-factor, 1)*30%), 44%);
+/** Button Danger Colors **/
+    --button-danger-background: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --button-danger-background-hover: hsl(359, calc(var(--saturation-factor, 1)*67%), 44%);
+    --button-danger-background-active: hsl(359, calc(var(--saturation-factor, 1)*67%), 34%);
+    --button-danger-background-disabled: hsl(359, calc(var(--saturation-factor, 1)*67%), 24%);
+/** Button Positive Colors **/
+    --button-positive-background: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --button-positive-background-hover: hsl(153, calc(var(--saturation-factor, 1)*46%), 44%);
+    --button-positive-background-active: hsl(153, calc(var(--saturation-factor, 1)*46%), 34%);
+    --button-positive-background-disabled: hsl(153, calc(var(--saturation-factor, 1)*46%), 24%);
+/** Button Secondary Colors **/
+    --button-secondary-background: hsl(0, 0%, 15%);
+    --button-secondary-background-hover: hsl(0, 0%, 10%);
+    --button-secondary-background-active: hsl(0, 0%, 5%);
+    --button-secondary-background-disabled: hsl(0, 0%, 1%);
+/** Button Outline Danger Colors **/
+    --button-outline-danger-border: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --button-outline-danger-background: transparent;
+    --button-outline-danger-background-hover: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --button-outline-danger-border-hover: hsl(359, calc(var(--saturation-factor, 1)*67%), 54%);
+    --button-outline-danger-background-active: hsl(359, calc(var(--saturation-factor, 1)*67%), 34%);
+    --button-outline-danger-border-active: hsl(359, calc(var(--saturation-factor, 1)*67%), 34%);
+/** Button Outline Positive Colors **/
+    --button-outline-positive-border: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --button-outline-positive-background: transparent;
+    --button-outline-positive-background-hover: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --button-outline-positive-border-hover: hsl(153, calc(var(--saturation-factor, 1)*46%), 49%);
+    --button-outline-positive-background-active: hsl(153, calc(var(--saturation-factor, 1)*46%), 34%);
+    --button-outline-positive-border-active: hsl(153, calc(var(--saturation-factor, 1)*46%), 34%);
+/** Button Outline Brand Colors **/
+    --button-outline-brand-border: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --button-outline-brand-background: transparent;
+    --button-outline-brand-background-hover: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --button-outline-brand-border-hover: hsl(235, calc(var(--saturation-factor, 1)*86%), 65%);
+    --button-outline-brand-background-active: hsl(235, calc(var(--saturation-factor, 1)*49%), 51%);
+    --button-outline-brand-border-active: hsl(235, calc(var(--saturation-factor, 1)*49%), 51%);
+/** Button Outline Primary Colors **/
+    --button-outline-primary-border: hsl(217, calc(var(--saturation-factor, 1)*8%), 34%);
+    --button-outline-primary-background: transparent;
+    --button-outline-primary-background-hover: hsl(217, calc(var(--saturation-factor, 1)*8%), 34%);
+    --button-outline-primary-border-hover: hsl(217, calc(var(--saturation-factor, 1)*8%), 34%);
+    --button-outline-primary-background-active: hsl(213, calc(var(--saturation-factor, 1)*5%), 43%);
+    --button-outline-primary-border-active: hsl(213, calc(var(--saturation-factor, 1)*5%), 43%);
+}

@@ -1,3 +1,7 @@
+/** Simple Black Theme - Brand Experiment Module **/
+
+/** WARNING: THIS MODULE IS STILL A WORK IN PROGRESS **/
+
 [data-popout-root],  html {
     --brand-experiment-100: hsl(240, 77.8%, 98.2%);
     --brand-experiment-130: hsl(236, 87.5%, 96.9%);

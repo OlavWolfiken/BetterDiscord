@@ -6,7 +6,7 @@ assignees:
   - OlavWolfiken
 body:
   - type: markdown
-  value: "## Welcome!"
+    value: "## Welcome!"
   - type: markdown
   attributes:
     value: |

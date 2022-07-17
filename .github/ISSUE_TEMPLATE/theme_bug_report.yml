@@ -5,6 +5,12 @@ labels: ["bug", "theme"]
 assignees:
   - OlavWolfiken
 body:
+  - type: markdown
+  value: "## Welcome!"
+  - type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug report! If you need real-time help, join us on [Discord](https://example.com).
   - type: dropdown
     id: theme
     attributes:
@@ -18,41 +24,52 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: What were you doing before the issue occured and what did you expect to happen?
+      description: What were you doing before the issue occured and what did you expect to happen? Remember to provide us with a screenshot of the bug!
       placeholder: Tell us what you see!
     validations:
       required: true
   - type: dropdown
-    id: client
+    id: channel
     attributes:
-      label: Which Discord client are you using the theme on?
+      label: Which Discord channel are you using the theme on?
       multiple: true
       options:
         - Stable
         - PTB (Preview Testing Build)
         - Canary
     validations:
-      required: false
+      required: true
+  - type: markdown
+  attributes:
+    value: |
+      [How can I find the information about my Discord channel?](https://example.com)
   - type: input
     id: version
     attributes:
-      label: What is your Discord client's version?
+      label: What version of Discord do you have installed?
       placeholder: ex. Stable 136100 (5e0883f)
     validations:
       required: false
+  - type: input
+    id: language
+    attributes:
+      label: What language do you use on Discord?
+      placeholder: ex. English, US
+    validations:
+      required: false
   - type: dropdown
-    id: mod-client
+    id: mod
     attributes:
       label: Which Discord mod are you using the theme on?
       multiple: true
       options:
         - BetterDiscord
     validations:
-      required: false
+      required: true
   - type: input
     id: mod-version
     attributes:
-      label: What is your Discord mod's version?
+      label: What version of the mod do you have installed?
       placeholder: ex. BetterDiscord 1.5.3
     validations:
       required: false

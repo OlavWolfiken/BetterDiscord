@@ -5,6 +5,15 @@ labels: ["bug", "theme"]
 assignees:
   - OlavWolfiken
 body:
+  - type: markdown
+    id: welcome
+    attributes:
+      value: "## Welcome!"
+  - type: markdown
+    id: welcomemsg
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! If you need real-time help, join us on [Discord](https://example.com).
   - type: dropdown
     id: theme
     attributes:
@@ -34,9 +43,10 @@ body:
     validations:
       required: true
   - type: markdown
-  attributes:
-    value: |
-      [How can I find the information about my Discord channel?](https://example.com)
+    id: hint
+    attributes:
+      value: |
+        [How can I find the information about my Discord channel?](https://example.com)
   - type: input
     id: version
     attributes:
